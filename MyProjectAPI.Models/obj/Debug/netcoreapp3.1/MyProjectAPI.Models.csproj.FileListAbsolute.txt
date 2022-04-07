@@ -1,0 +1,10 @@
+C:\Users\fanni\source\repos\MyProjectAPI\MyProjectAPI.Models\bin\Debug\netcoreapp3.1\MyProjectAPI.Models.deps.json
+C:\Users\fanni\source\repos\MyProjectAPI\MyProjectAPI.Models\bin\Debug\netcoreapp3.1\MyProjectAPI.Models.dll
+C:\Users\fanni\source\repos\MyProjectAPI\MyProjectAPI.Models\bin\Debug\netcoreapp3.1\MyProjectAPI.Models.pdb
+C:\Users\fanni\source\repos\MyProjectAPI\MyProjectAPI.Models\obj\Debug\netcoreapp3.1\MyProjectAPI.Models.csproj.AssemblyReference.cache
+C:\Users\fanni\source\repos\MyProjectAPI\MyProjectAPI.Models\obj\Debug\netcoreapp3.1\MyProjectAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanni\source\repos\MyProjectAPI\MyProjectAPI.Models\obj\Debug\netcoreapp3.1\MyProjectAPI.Models.AssemblyInfoInputs.cache
+C:\Users\fanni\source\repos\MyProjectAPI\MyProjectAPI.Models\obj\Debug\netcoreapp3.1\MyProjectAPI.Models.AssemblyInfo.cs
+C:\Users\fanni\source\repos\MyProjectAPI\MyProjectAPI.Models\obj\Debug\netcoreapp3.1\MyProjectAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\fanni\source\repos\MyProjectAPI\MyProjectAPI.Models\obj\Debug\netcoreapp3.1\MyProjectAPI.Models.dll
+C:\Users\fanni\source\repos\MyProjectAPI\MyProjectAPI.Models\obj\Debug\netcoreapp3.1\MyProjectAPI.Models.pdb
